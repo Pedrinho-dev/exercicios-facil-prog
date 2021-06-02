@@ -1,0 +1,9 @@
+// FAÇA O ALERT Q NEM NAS OUTRAS PARA TESTAR O ROTEAMENTO PORÉM EM ORIENTAÇÃO
+
+// CADASTRE E LISTE POR ORIENTAÇÃO USANDO AQUELE CODIGO Q TE PASSEI
+
+class Vainafé{
+    constructor(){
+        // boa sorte
+    }
+}
